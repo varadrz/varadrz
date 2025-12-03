@@ -42,47 +42,6 @@ I enjoy full-stack development, computer vision, cloud technologies, and buildin
 
 ---
 
-## 📌 Projects  
-
-### **Driver Monitoring System (DMS)** 🚗👀  
-A real-time drowsiness & distraction detection system with alerts and a virtual car interface.  
-**Tech:** Python, OpenCV, MediaPipe, NumPy, Pygame  
-- Detects eye closure & head posture  
-- Alerts with horn/warnings  
-- Visual driver state (GREEN / YELLOW / RED)
-
----
-
-### **Face Recognition Attendance System** 🧑‍🏫📸  
-Automated attendance using facial recognition with GUI popups.  
-**Tech:** Python, OpenCV, Face_Recognition, PyQt5, Pandas  
-- Captures & logs attendance  
-- Snapshot storage  
-- Optimized for real-time performance  
-
----
-
-### **Movie Streaming Website** 🎬  
-Netflix-style responsive UI with search & categories.  
-**Tech:** HTML, CSS, JavaScript, React
-
----
-
-### **Tambola Web Game** 🎲🔊  
-Interactive Tambola game with voice-assisted number calling.  
-**Tech:** HTML5, CSS3, JavaScript, Web Speech API  
-
----
-
-### **ERP System (Ongoing)** ⚙️🏫  
-A scalable ERP platform featuring:  
-- Handwriting-to-text conversion  
-- Workflow & HR modules  
-- Visitor + attendance system  
-- Student/teacher resource portal  
-
----
-
 ## 📈 Work Experience  
 
 ### **IT Data & Business Analytics Intern**  
